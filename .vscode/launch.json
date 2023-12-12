@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: ContosoUniversity [https]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/ContosoUniversity.csproj",
+            "launchConfigurationId": "TargetFramework=;https"
+        }
+    ]
+}
